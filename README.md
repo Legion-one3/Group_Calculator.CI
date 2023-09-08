@@ -5,3 +5,7 @@ In this project we created a basic command line calculator in pyhton, you are ab
 # How to use the calculator?
 
 As you might have guessed it's no different to any other calculator...run the program, enter your first number when prompted, choose your operator(+,-,*,/), then enter your second number and wait for your result!
+
+# Link to the replit
+
+https://replit.com/@DanSewell/Calculate
